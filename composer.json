@@ -1,0 +1,7 @@
+{
+    "name": "plugin/woocommerce-delivery-notes",
+    "type": "wordpress-plugin",
+    "description": "WooCommerce PDF Invoices & Packing Slips - customized",
+    "license": "GPL-2.0-or-later",
+    "version": "5.7.0"
+}
